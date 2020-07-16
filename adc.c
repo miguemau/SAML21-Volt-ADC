@@ -1,10 +1,4 @@
 /*
- *
- *
- * Created 4/22/2020 
- * Author: ramez 
- *
- *
  ********************************************
  Miguel Rivas & Ramez Kaupak
  ESE381 L02
